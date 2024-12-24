@@ -1,7 +1,7 @@
 
 ## 🖥️ Proyectos
 
-### 🎮 [Simulador y gestor de parkings](https://github.com/MarcosASandes/GestionDeParkings)
+###  [Simulador y gestor de parkings](https://github.com/MarcosASandes/GestionDeParkings)
 **Descripción:** Proyecto obligatorio de la materia Diseño y Desarrollo de Aplicaciones que integra un sistema de gestión de parkings con un simulador de concurrencia de vehículos.  
 **Tecnologías utilizadas:**  
 - Java.  
@@ -9,7 +9,7 @@
 
 ---
 
-### 🌐 [Gestor de Ecosistemas Marinos](https://github.com/MarcosASandes/SistemaDeEcosistemasMarinosServidor)
+###  [Gestor de Ecosistemas Marinos](https://github.com/MarcosASandes/SistemaDeEcosistemasMarinosServidor)
 **Descripción:** Proyecto obligatorio de la materia Programación 3. Sistema de gestión para ecosistemas marinos y especies.  
 **Tecnologías utilizadas:**  
 - .NET 7 - C#.  
@@ -19,7 +19,7 @@
 
 ---
 
-### 📱 [Gestor de calorías](https://github.com/MarcosASandes/GestorDeCalorias)
+###  [Gestor de calorías](https://github.com/MarcosASandes/GestorDeCalorias)
 **Descripción:** Proyecto obligatorio del Taller de FrontEnd. Aplicación de gestión de calorías personal.  
 **Tecnologías utilizadas:**  
 - React.  
